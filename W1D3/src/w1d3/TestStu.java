@@ -27,3 +27,8 @@ public class TestStu {
     }  //
     
 }
+
+13 me 17 
+14 men 19 
+the max mark is20
+the min mark is12
