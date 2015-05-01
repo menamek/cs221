@@ -39,3 +39,7 @@ public static void main(String args[]) {
 }
     
 }
+
+
+size befor remove is 2
+size after remove is 1
