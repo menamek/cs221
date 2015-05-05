@@ -39,3 +39,26 @@ public class DirectoryTestD {
 	}
 
 }
+
+run:
+Directory [jkhk, 1235478]
+Directory [kijuhho, 456879]
+Directory [jhbhk, 25462]
+Directory [iuhiu, 1452147]
+
+Directory [jkhk, 1235478]
+Directory [kijuhho, 456879]
+Directory [jhbhk, 25462]
+Directory [iuhiu, 1452147]
+Directory [hjlk, 789456]
+
+Directory [kijuhho, 456879]
+Directory [jhbhk, 25462]
+Directory [iuhiu, 1452147]
+Directory [hjlk, 789456]
+
+ list size is: 4
+Directory [iuhiu, 1452147]
+Directory [jhbhk, 25462]
+BUILD SUCCESSFUL (total time: 0 seconds)
+
