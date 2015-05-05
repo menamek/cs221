@@ -49,3 +49,17 @@ public class Admission {
     }
 
 }
+
+run:
+[1 mena mena , 2 me me , 3 m m , 4 kl kl , 5 k k ]
+The peek element is: 1 mena mena 
+The size of the queue is: 5
+1 mena mena 
+2 me me 
+3 m m 
+4 kl kl 
+5 k k 
+queue is empty :true
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+

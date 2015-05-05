@@ -97,3 +97,7 @@ public class revisedPriorityQ {
 	} // end main()
 	// -------------------------------------------------------------
 }
+run:
+10 20 30 40 50 
+BUILD SUCCESSFUL (total time: 0 seconds)
+
