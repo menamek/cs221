@@ -119,3 +119,17 @@ public class PriorityLinkedList {
         }
     }
 }
+
+run:
+[0, 10, 15, 20, 25, 40]
+Remove: 0
+[10, 15, 20, 25, 40]
+Pick: 10
+10
+15
+20
+25
+40
+isEmpty: true
+BUILD SUCCESSFUL (total time: 1 second)
+
