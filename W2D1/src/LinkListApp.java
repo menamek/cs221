@@ -39,3 +39,18 @@ public class LinkListApp {
 		}
 	}
 }
+
+run:
+The List size is: 4
+find exsiting number: true
+find none exsiting number: false
+The maximum element is: 80
+The minumem element is: 20
+List (first-->last): 80 60 40 20 
+Deleted 80
+Deleted 60
+Deleted 40
+Deleted 20
+List (first-->last): 
+BUILD SUCCESSFUL (total time: 0 seconds)
+
