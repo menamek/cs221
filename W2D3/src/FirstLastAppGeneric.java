@@ -39,3 +39,11 @@ public class FirstLastAppGeneric {
 
 	} // end main()
 }
+
+run:
+List (first-->last): 66 44 22 11 33 55 
+List (first-->last): 44 22 11 33 55 
+List (first-->last): mennnna mena1 mena c d e 
+List (first-->last): mena1 mena c d e 
+BUILD SUCCESSFUL (total time: 0 seconds)
+
