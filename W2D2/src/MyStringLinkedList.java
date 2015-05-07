@@ -186,3 +186,10 @@ public class MyStringLinkedList {
 
     }
 }
+
+run:
+==>[m]==>[menna]==>[men]==>[me]==>[NULL]
+==>[menna]==>[men]==>[me]==>[NULL]
+BUILD SUCCESSFUL (total time: 1 second)
+
+
