@@ -89,3 +89,16 @@ public class LinkStackGeneric<D> {
 	} // end main()
 
 }
+run:
+Stack (top-->bottom): 20.5 10.8 
+Stack (top-->bottom): 40.5 30.8 20.5 10.8 
+Stack (top-->bottom): 20.5 10.8 
+Item Deleted : null
+Stack (top-->bottom): 
+for the double 
+Stack (top-->bottom): 
+Stack (top-->bottom): 4.8 3.8 7.9 2.2 
+Stack (top-->bottom): 7.9 2.2 
+Item Deleted : null
+Stack (top-->bottom): 
+BUILD SUCCESSFUL (total time: 0 seconds)
