@@ -39,3 +39,12 @@ public class IsAnagrams {
         }
         }
     }
+    
+    run:
+Enter the first string: 
+mena 
+Enter the second string: 
+mean 
+ are equal and anagram
+BUILD SUCCESSFUL (total time: 13 seconds)
+
