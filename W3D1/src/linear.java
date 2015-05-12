@@ -32,3 +32,9 @@ public class linear {
 	}
 
 }
+
+run:
+linear search  : 
+not found
+BUILD SUCCESSFUL (total time: 0 seconds)
+
