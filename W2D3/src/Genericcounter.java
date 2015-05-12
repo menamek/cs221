@@ -68,3 +68,9 @@ public class Genericcounter {
 		System.out.println("there is dupulicate amount:"+o.countOccurance());
 	}
 }
+
+run:
+[2,2,123,45,]
+there is dupulicate amount:2
+BUILD SUCCESSFUL (total time: 0 seconds)
+

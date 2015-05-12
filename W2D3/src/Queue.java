@@ -100,3 +100,9 @@ public static void main(String[] args) {
 		System.out.println(ob.peekFront());
 	}
 }
+
+run:
+[10,12,]
+[menna,]
+mena
+BUILD SUCCESSFUL (total time: 0 seconds)
