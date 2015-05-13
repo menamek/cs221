@@ -64,3 +64,11 @@ public class Vehicle {
         }
     }
 }
+
+run:
+VehicleName:  menna VehiclePrice:  20 Vehiclemodel:     1999
+VehicleName:  men VehiclePrice:  30 Vehiclemodel:     2000
+VehicleName:  mena VehiclePrice:  30 Vehiclemodel:     1973
+VehicleName:  me VehiclePrice:  40 Vehiclemodel:     1975
+BUILD SUCCESSFUL (total time: 0 seconds)
+
