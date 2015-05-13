@@ -34,3 +34,8 @@ public class IsPalindrome {
     }
 
 }
+
+run:
+Yes
+BUILD SUCCESSFUL (total time: 0 seconds)
+

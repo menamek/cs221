@@ -34,3 +34,9 @@ public static void DecimalToBinary(int num) {
 }
 
 }
+
+run:
+Enter number to convert to binary: 
+6
+1 1 0 BUILD SUCCESSFUL (total time: 9 seconds)
+
