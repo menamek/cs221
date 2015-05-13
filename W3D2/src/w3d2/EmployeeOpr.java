@@ -169,3 +169,30 @@ public class EmployeeOpr {
 	
 
 }
+
+run:
+In-order traversal
+10 , menna
+20 , mena
+30 , Men
+40 , me
+50 , M
+
+Employee Exist(100) : true
+
+Employee Exist(1000) : false
+post order traversal 
+50,M
+40,me
+30,Men
+20,mena
+10,menna
+
+Employee Exist(115) : true
+
+Employee Exist(19) : false
+the maximum is  M 50
+the minmum  menna 10
+Leaf nodes: 1
+BUILD SUCCESSFUL (total time: 0 seconds)
+
