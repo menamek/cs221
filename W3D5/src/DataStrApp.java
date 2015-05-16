@@ -93,3 +93,22 @@ public class DataStrApp {
 	}
 
 }
+
+Enter size of hash table: 5
+Enter initial number of items: 0
+Enter first letter of show, insert, delete,  find,or S i
+Enter key value to insert: teddy
+Index : 3
+Enter first letter of show, insert, delete,  find,or S d
+Enter key value to delete: teddy
+Index : 3
+Enter first letter of show, insert, delete,  find,or S s
+Table: ** ** ** null ** 
+Enter first letter of show, insert, delete,  find,or S i
+Enter key value to insert: simon
+Index : 0
+Enter first letter of show, insert, delete,  find,or S s
+Table: simon ** ** null ** 
+Enter first letter of show, insert, delete,  find,or S S
+The size of the hashtable is: 2
+Enter first letter of show, insert, delete,  find,or S */
