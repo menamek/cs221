@@ -72,6 +72,30 @@ public class HashTableApp {
 			} 
 		} 
 	} 
+	
+	
+	Enter size of hash table: 5
+Enter initial number of items: 0
+Enter first letter of show, insert, delete, find or Size: i
+Enter key value to insert: 12
+Enter first letter of show, insert, delete, find or Size: s
+Table: ** ** 12 ** ** 
+Enter first letter of show, insert, delete, find or Size: i
+Enter key value to insert: 17
+Enter first letter of show, insert, delete, find or Size: s
+Table: 17 ** 12 ** ** 
+Enter first letter of show, insert, delete, find or Size: i
+Enter key value to insert: 22
+Enter first letter of show, insert, delete, find or Size: s
+Table: 17 ** 12 22 ** 
+Enter first letter of show, insert, delete, find or Size: d
+Enter key value to delete: 22
+Enter first letter of show, insert, delete, find or Size: s
+Table: 17 ** 12 -1 ** 
+Enter first letter of show, insert, delete, find or Size: S
+The size of the hashTable: 3
+Table: 17 ** 12 -1 ** 
+Enter first letter of show, insert, delete, find or Size:
 
 	public static String getString() throws IOException {
 		InputStreamReader isr = new InputStreamReader(System.in);
